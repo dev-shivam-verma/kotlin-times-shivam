@@ -5,15 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8edda772-3e94-44d7-aabe-678161801c13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/reapeat loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LinearSearch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Title_case_maker.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/addUpto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break_and_continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/range_contain_range.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/take_odd_one_out.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tolerant_palindrome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/revising_multithreading.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/revising_multithreading.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/try_catch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/try_catch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/reapeat loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/reapeat loop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +51,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Tolerant_palindromeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tolerant_palindromeKt" />
+      <module name="kotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Tolerant_palindromeKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
